@@ -10,7 +10,7 @@ import {
 
 const API_URL = "https://backend-p4-klvc.onrender.com";
 
-const ALUMNO = "Jorge"; // cambia esto por tu nombre si hace falta
+const ALUMNO = "Gina"
 
 const getToken = () => {
   return document.cookie
